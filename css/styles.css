@@ -694,6 +694,7 @@ img {
 }
 
 .modal-close {
+  padding: 0;
   position: absolute;
   display: flex;
   top: 10px;
