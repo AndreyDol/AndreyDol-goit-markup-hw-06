@@ -671,7 +671,7 @@ img {
   background-color: rgba(0, 0, 0, 0.2);
   position: fixed;
   top: 0;
-  transition: opasity var(--main-time-duration) var(--main-timing-function),
+  transition: opacity var(--main-time-duration) var(--main-timing-function),
     visibility var(--main-time-duration) var(--main-timing-function),
     background-color var(--main-time-duration) var(--main-timing-function);
 }
